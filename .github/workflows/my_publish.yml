@@ -1,4 +1,4 @@
-name: publish
+name: my_publish
 
 on: [push, pull_request, workflow_dispatch]
 
