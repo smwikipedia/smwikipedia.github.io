@@ -1,0 +1,6 @@
+sphinx
+livereload
+myst-parser
+sphinx-autodoc-typehints
+sphinx-book-theme
+sphinx-rtd-theme
